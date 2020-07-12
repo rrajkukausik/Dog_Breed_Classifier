@@ -1,0 +1,3 @@
+## You can Download the dogImages.zip from the below link
+
+[Download Link](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
