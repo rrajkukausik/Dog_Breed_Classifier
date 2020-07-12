@@ -48,11 +48,11 @@ In this project, i have build a pipeline to process real-world, user-supplied im
 ├── README.md
 ├── dog_app.ipynb
 ├── data
-   ├── dog_images
-   ├── iwf
-├── harcascade
+   ├── dog_images/
+   ├── iwf/
+├── harcascade/
    ├──  harcascade_frontalface_alt.xml
-├── images
+├── images/
    ├── various images required in the dog_app.ipynb file
 ├── report.html
 ```
